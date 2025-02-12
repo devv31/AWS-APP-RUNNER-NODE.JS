@@ -16,7 +16,7 @@ const port = 5000;
 const db = mysql.createConnection ({
     host: 'nodedatabase.chimcowukqzr.us-east-1.rds.amazonaws.com',
     user: 'admin',
-    password: 'testing123',
+    password: 'Devpatel6166',
     database: 'socka'
 });
 
